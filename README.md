@@ -2,7 +2,7 @@
 
 Un système RAG (Retrieval-Augmented Generation) professionnel qui combine la recherche sémantique avec la génération de texte pour fournir des réponses précises basées sur des documents.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - **Recherche sémantique** : Utilise des embeddings pour trouver les documents les plus pertinents
 - **Génération de réponses** : Génère des réponses basées sur le contexte récupéré
