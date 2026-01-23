@@ -81,7 +81,6 @@ Vous pouvez modifier les paramètres dans `src/rag/RAG.py` :
 
 - `sentence-transformers` : Pour les embeddings
 - `transformers` : Pour la génération de texte
-- `torch` : Backend pour les modèles
 - `numpy` : Calculs numériques
 
 
