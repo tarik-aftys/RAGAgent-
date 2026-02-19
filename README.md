@@ -1,4 +1,4 @@
-# RAG Agent - Retrieval-Augmented Generation System
+# RAG - Retrieval-Augmented Generation System
 
 Un système RAG (Retrieval-Augmented Generation) professionnel qui combine la recherche sémantique avec la génération de texte pour fournir des réponses précises basées sur des documents.
 
